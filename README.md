@@ -1,30 +1,56 @@
-# Cybersecurity Internal Audit – Botium Toys (Fictional Case Study)
+# 🛡️ Cybersecurity Internal Audit – Botium Toys
 
-This repository documents a fictional internal IT audit conducted for Botium Toys, a growing small business expanding its global digital footprint.
+This repository contains a fictional internal cybersecurity audit conducted for Botium Toys, a small U.S.-based toy company expanding into online markets and the European Union (EU). This project demonstrates how internal audits improve security posture and ensure regulatory compliance, using best practices like the NIST Cybersecurity Framework.
 
-## Overview
+---
 
-The goal of this project is to demonstrate practical understanding of:
-- Security controls (administrative, technical, physical)
-- Compliance frameworks (NIST CSF, GDPR, PCI DSS)
-- Risk assessments and mitigation planning
+## 🔍 Project Overview
 
-## Contents
+Botium Toys needed an internal audit to evaluate IT risks, protect sensitive data, and comply with standards such as **GDPR** and **PCI DSS**. This repository contains documentation of a complete cybersecurity audit process, including:
 
-- `audit-scope-and-goals.md`: Outlines objectives and scope
-- `risk-assessment.md`: Asset inventory, risk scores, and impact
-- `controls-assessment/`: Detailed breakdown of proposed controls
-- `compliance-checklist.md`: Alignment with GDPR and PCI DSS
-- `recommendations.md`: Final recommendations for risk reduction
+- Risk assessment
+- Controls evaluation
+- Compliance checklist
+- Actionable recommendations to stakeholders
 
-## Skills Demonstrated
+---
 
-- Internal IT auditing
-- NIST Cybersecurity Framework
-- Threat modeling and risk scoring
-- Compliance analysis
-- Professional documentation
+## 📂 Included Files
 
-## Note
+| File | Description |
+|------|-------------|
+| `audit-recommendations.md` | Summary of recommendations to improve controls and compliance |
+| `controls-assessment.xlsx` *(optional)* | Assessment of administrative, technical, and physical controls |
+| `compliance-checklist.pdf` *(optional)* | GDPR & PCI DSS compliance alignment checklist |
+| `risk-summary.md` *(optional)* | Overview of risk areas and vulnerable assets |
 
-This is a fictional scenario used for educational purposes only.
+---
+
+## 📌 Goals of the Audit
+
+- Align security practices with the **NIST Cybersecurity Framework**
+- Identify risks to IT-managed assets
+- Strengthen administrative, technical, and physical controls
+- Address gaps in compliance (GDPR, PCI DSS)
+- Improve business continuity and data protection
+
+---
+
+## ✅ Key Outcomes
+
+- Risk score identified as high (8/10) due to lack of asset controls and compliance gaps
+- Recommendations made for stronger password policies, IDS deployment, encryption, and physical security
+- Compliance roadmap drafted for GDPR & PCI DSS adherence
+
+---
+
+## 🧠 Skills Demonstrated
+
+- Cybersecurity auditing & documentation
+- Risk analysis and control mapping
+- Compliance research (GDPR, PCI DSS)
+- Written communication for stakeholders
+
+---
+
+> 📌 This is a fictional project created as part of a cybersecurity training program. It is intended for learning and portfolio purposes only.
