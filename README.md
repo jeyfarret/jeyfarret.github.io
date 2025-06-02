@@ -19,7 +19,7 @@ Botium Toys needed an internal audit to evaluate IT risks, protect sensitive dat
 
 | File | Description |
 |------|-------------|
-| [audit-recommendations.md](https://jeyfarret.github.io/audit-recommendations.md) | Summary of recommendations to improve controls and compliance |
+| [audit-recommendations.md](jeyfarret.github.io/audit-recommendations.md) | Summary of recommendations to improve controls and compliance |
 
 ---
 
