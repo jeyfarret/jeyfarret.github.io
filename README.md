@@ -15,14 +15,11 @@ Botium Toys needed an internal audit to evaluate IT risks, protect sensitive dat
 
 ---
 
-## 📂 Included Files
+## 📂 Included File
 
 | File | Description |
 |------|-------------|
-| `audit-recommendations.md` | Summary of recommendations to improve controls and compliance |
-| `controls-assessment.xlsx` *(optional)* | Assessment of administrative, technical, and physical controls |
-| `compliance-checklist.pdf` *(optional)* | GDPR & PCI DSS compliance alignment checklist |
-| `risk-summary.md` *(optional)* | Overview of risk areas and vulnerable assets |
+| `[audit-recommendations.md] (https://jeyfarret.github.io/audit-recommendations.md)` | Summary of recommendations to improve controls and compliance |
 
 ---
 
